@@ -14,14 +14,14 @@ const About = () => {
               <div className="w-48 h-48 rounded-full overflow-hidden mb-6 bg-portfolio-purple/20 p-1">
                 <img 
                   src="/lovable-uploads/32ef4166-9e58-4904-b36b-4c8bbd055659.png"
-                  alt="Kelachi" 
+                  alt="Shanika" 
                   className="w-full h-full object-cover rounded-full"
                 />
               </div>
               
-              <h2 className="text-3xl font-bold mb-2">Hi, I'm Kelachi</h2>
+              <h2 className="text-3xl font-bold mb-2">Hi, I'm Shanika</h2>
               <h3 className="text-xl text-gray-300 mb-6">
-                a Business Analyst known for strong communication and problem-solving skills. I specialize in Excel, SQL, and Tableau for impactful business analysis.
+                A Data Analyst known for strong communication and problem-solving skills. I specialize in Excel, SQL, and Tableau for impactful business analysis.
               </h3>
               
               <p className="text-center mb-8">
@@ -30,7 +30,7 @@ const About = () => {
               
               <div className="flex justify-center space-x-4 mb-6">
                 <a 
-                  href="https://github.com/username" 
+                  href="https://https://github.com/shanderson10" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-white hover:text-portfolio-accent transition-colors"
@@ -38,7 +38,7 @@ const About = () => {
                   <Github className="h-6 w-6" />
                 </a>
                 <a 
-                  href="https://linkedin.com/in/username" 
+                  href="https://linkedin.com/in/shanika-anderson" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-white hover:text-portfolio-accent transition-colors"
@@ -48,7 +48,7 @@ const About = () => {
               </div>
               
               <div className="mt-4 text-sm text-gray-400">
-                © Kelachi2024 | Design: HTML5 UP
+                © Shanika Anderson 20245
               </div>
             </div>
           </div>
@@ -59,20 +59,20 @@ const About = () => {
             
             <div className="space-y-6 text-lg">
               <p>
-                Welcome to my portfolio! I'm not just a Business Analyst. I'm passionate about leveraging data-driven insights 
-                to empower businesses and drive success. My journey into this field was built on a solid foundation—a 
-                Bachelor of Business Administration degree, enhanced by a minor in Computer Science.
+                Welcome to my portfolio! I'm not just a Data Analyst. I'm passionate about leveraging data-driven insights 
+                to empower businesses and drive success. My journey into this field was built on a background in Pyschology with 
+                a passion for problem solving.
+            
               </p>
               
               <p>
-                During my academic years, I delved into diverse aspects of business, from finance and accounting to marketing. 
-                However, it was in a data visualization course within my computer science curriculum that I discovered the 
-                transformative power of data in shaping business outcomes. This realization ignited my interest in leveraging 
-                data to empower businesses to make informed decisions crucial for success in their respective industries.
+                During my professional years, I delved into diverse aspects of business advising, from insurance to marketing. 
+                However, it was in a data analytics internship program that I discovered the transformative power of data in shaping business outcomes. 
+                This realization ignited my interest in leveraging data to empower businesses to make informed decisions crucial for success in their respective industries.
               </p>
               
               <p>
-                I thrive as a banking advisor, where each day presents an opportunity to apply my skills and values. My role demands 
+                I am currently a Data Analyst at Oeson, where each day presents an opportunity to apply my skills and values. My role demands 
                 active listening, effective communication, and problem-solving—traits finely honed through firsthand client 
                 interactions. Guided by my core values of Dependability, Integrity, Constant Improvement, and Empathy (DICE), 
                 I navigate challenges with resolve and empathy, consistently delivering tailored solutions that meet and exceed 
@@ -81,7 +81,7 @@ const About = () => {
               
               <p>
                 This portfolio showcases my projects, learning journey, and dedication to continuous growth and innovation in 
-                Business Analysis.
+                Data Analysis.
               </p>
             </div>
             
