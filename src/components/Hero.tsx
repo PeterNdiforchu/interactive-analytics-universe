@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="container mx-auto grid md:grid-cols-2 gap-12 items-center">
         <div className="space-y-6 animate-fade-in">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold">
-            Hi, I'm Kelachi
+            Hi, I'm Shanika
             <span className="block text-portfolio-accent mt-2">Data Analyst & Visualizer</span>
           </h1>
           <p className="text-lg text-gray-200 max-w-lg">
