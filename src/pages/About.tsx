@@ -13,7 +13,7 @@ const About = () => {
             <div className="flex flex-col items-center">
               <div className="w-48 h-48 rounded-full overflow-hidden mb-6 bg-portfolio-purple/20 p-1">
                 <img 
-                  src="/lovable-uploads/32ef4166-9e58-4904-b36b-4c8bbd055659.png"
+                  src="/lovable-uploads/shanika_anderson.png"
                   alt="Shanika" 
                   className="w-full h-full object-cover rounded-full"
                 />
@@ -48,7 +48,7 @@ const About = () => {
               </div>
               
               <div className="mt-4 text-sm text-gray-400">
-                © Shanika Anderson 20245
+                © Shanika Anderson 2025
               </div>
             </div>
           </div>
