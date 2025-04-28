@@ -114,13 +114,12 @@ const About = () => {
                 <h3 className="text-xl font-semibold mb-4">Education</h3>
                 <div className="space-y-4">
                   <div>
-                    <h4 className="font-medium">Bachelor of Business Administration</h4>
-                    <p className="text-sm text-muted-foreground">Minor in Computer Science</p>
-                    <p className="text-sm">University Name, 2018-2022</p>
+                    <h4 className="font-medium">Data Analysis Certification</h4>
+                    <p className="text-sm">Chegg Skills, May 2024 - November 2024</p>
                   </div>
                   <div>
-                    <h4 className="font-medium">Data Science Certification</h4>
-                    <p className="text-sm">Certification Provider, 2023</p>
+                    <h4 className="font-medium">Bachelor of Science in Psychology</h4>
+                    <p className="text-sm">University Name, 2006-2010</p>
                   </div>
                 </div>
               </div>
