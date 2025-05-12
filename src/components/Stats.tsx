@@ -5,25 +5,25 @@ const Stats = () => {
   const stats = [
     {
       title: "Data Analysis",
-      value: "5+",
+      value: "2+",
       description: "Years Experience",
       icon: "📊"
     },
     {
       title: "Projects",
-      value: "30+",
+      value: "7",
       description: "Completed",
       icon: "🚀"
     },
     {
       title: "Visualization",
-      value: "100+",
+      value: "3",
       description: "Dashboards",
       icon: "📈"
     },
     {
       title: "SQL Queries",
-      value: "1000+",
+      value: "20+",
       description: "Optimized",
       icon: "⚡"
     }
