@@ -68,10 +68,10 @@ const Footer = () => {
         
         <div className="border-t border-gray-800 mt-8 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-400">
-            © {currentYear} Kelachi. All rights reserved.
+            © {currentYear} Shanika Anderson. All rights reserved.
           </p>
           <p className="text-sm text-gray-400 mt-2 md:mt-0">
-            Designed with ❤️ by Kelachi
+            Designed with ❤️ by Shanika Anderson
           </p>
         </div>
       </div>

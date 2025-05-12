@@ -23,7 +23,7 @@ const Hero = () => {
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Link>
             </Button>
-            <Button asChild variant="outline" size="lg" className="border-white text-white hover:bg-white hover:text-portfolio-blue">
+            <Button asChild size="lg" className="bg-portfolio-purple hover:bg-portfolio-light-purple">
               <Link to="/contact">
                 Get In Touch
               </Link>
@@ -33,8 +33,8 @@ const Hero = () => {
         <div className="hidden md:block relative">
           <div className="aspect-square rounded-full bg-portfolio-purple/20 backdrop-blur-sm p-8 border border-portfolio-purple/30 animate-fade-in">
             <img 
-              src="/lovable-uploads/32ef4166-9e58-4904-b36b-4c8bbd055659.png" 
-              alt="Data Analytics" 
+              src="/lovable-uploads/shanika_anderson.png" 
+              alt="Shanika Anderson" 
               className="w-full h-full object-cover rounded-full"
             />
           </div>
