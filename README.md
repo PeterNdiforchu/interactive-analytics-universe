@@ -1,4 +1,5 @@
-# Welcome to your Lovable project
+
+# shanika_the_analyst
 
 ## Project info
 
