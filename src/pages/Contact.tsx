@@ -1,4 +1,3 @@
-
 import { Mail, MapPin, Phone } from 'lucide-react';
 import ContactForm from '@/components/ContactForm';
 
@@ -29,8 +28,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h3 className="font-medium">Email</h3>
-                      <a href="mailto:email@example.com" className="text-muted-foreground hover:text-primary transition-colors">
-                        email@example.com
+                      <a href="mailto:msjackson1098@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                        msjackson1098@gmail.com
                       </a>
                     </div>
                   </div>
