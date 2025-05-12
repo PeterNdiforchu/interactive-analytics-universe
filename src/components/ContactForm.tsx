@@ -28,7 +28,7 @@ const ContactForm = () => {
     
     try {
       // Initialize EmailJS with your service ID
-      emailjs.init("YOUR_USER_ID"); // You need to replace this with your actual EmailJS User ID
+      emailjs.init("6jDj659UHiN-6g6T8"); // You need to replace this with your actual EmailJS User ID
       
       // Prepare the template parameters
       const templateParams = {
@@ -41,8 +41,8 @@ const ContactForm = () => {
       
       // Send the email using EmailJS
       await emailjs.send(
-        "YOUR_SERVICE_ID", // Replace with your EmailJS Service ID
-        "YOUR_TEMPLATE_ID", // Replace with your EmailJS Template ID
+        "service_qtnkg44", // Replace with your EmailJS Service ID
+        "template_f21831g", // Replace with your EmailJS Template ID
         templateParams
       );
       
