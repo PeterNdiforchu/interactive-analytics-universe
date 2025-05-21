@@ -9,7 +9,7 @@ import { projectsData } from '@/data/projects';
 
 const Index = () => {
   // Get only the first 3 projects for the homepage
-  const featuredProjects = projectsData.slice(0, 3);
+  const featuredProjects = projectsData.slice(0, 5);
 
   return (
     <div className="min-h-screen">
