@@ -66,7 +66,7 @@ const Contact = () => {
                   </p>
                   <div className="flex space-x-4">
                     <a 
-                      href="https://github.com/username" 
+                      href="https://github.com/shanderson10" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="bg-[#333] text-white p-2 rounded-full hover:opacity-80 transition-opacity"
@@ -77,7 +77,7 @@ const Contact = () => {
                       </svg>
                     </a>
                     <a 
-                      href="https://linkedin.com/in/username" 
+                      href="https://www.linkedin.com/in/shanika-anderson/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="bg-[#0A66C2] text-white p-2 rounded-full hover:opacity-80 transition-opacity"
