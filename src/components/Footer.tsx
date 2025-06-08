@@ -35,7 +35,7 @@ const Footer = () => {
             <h4 className="text-lg font-semibold mb-4">Connect With Me</h4>
             <div className="flex space-x-4 mb-4">
               <a 
-                href="https://github.com/username" 
+                href="https://github.com/shanderson10" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-portfolio-accent transition-colors"
@@ -44,7 +44,7 @@ const Footer = () => {
                 <Github className="h-5 w-5" />
               </a>
               <a 
-                href="https://linkedin.com/in/username" 
+                href="https://www.linkedin.com/in/shanika-anderson/" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-portfolio-accent transition-colors"
