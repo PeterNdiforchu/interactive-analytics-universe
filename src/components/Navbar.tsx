@@ -73,7 +73,7 @@ const Navbar = () => {
             size="sm" 
             className="ml-4 border-primary text-primary hover:bg-primary hover:text-white"
           >
-            <a href="https://github.com/username" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/shanderson10" target="_blank" rel="noopener noreferrer">
               <Github className="h-4 w-4 mr-2" />
               GitHub
             </a>
@@ -119,7 +119,7 @@ const Navbar = () => {
               Contact
             </Link>
             <Button asChild variant="outline" className="border-primary text-primary hover:bg-primary hover:text-white w-full">
-              <a href="https://github.com/username" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center">
+              <a href="https://github.com/shanderson10" target="_blank" rel="noopener noreferrer" className="flex items-center justify-center">
                 <Github className="h-4 w-4 mr-2" />
                 GitHub
               </a>

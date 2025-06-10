@@ -130,7 +130,7 @@ const About = () => {
                 <Link to="/projects">View My Projects</Link>
               </Button>
               <Button asChild variant="outline" className="flex-1">
-                <a href="/resume.pdf" download>Download Resume</a>
+                <a href="/lovable-uploads/Shanika-Anderson Resume 2.19.25.pdf" download>Download Resume</a>
               </Button>
             </div>
           </div>
